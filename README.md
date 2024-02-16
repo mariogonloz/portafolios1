@@ -1,4 +1,4 @@
-# EXPCTATIVAS ANTES DE APRENDER POO
+# EXPECTATIVAS ANTES DE APRENDER POO
 |                         Expectativa                         |                    Lo que aprendí                    |
 |:-----------------------------------------------------------:|:----------------------------------------------------:|
 |                  Trabajar más comodamente                   | Aprendí a tener mejor organización y mejor comodidad |
