@@ -17,9 +17,17 @@
 + **Interpretar** diagramas **UML**.
 ---
 # PRÁCTICAS A DESTACAR
-![Hombre programando](C:\Users\gonza\IdeaProjects\portafolios1\imagen.jpg)
+![Hombre programando](https://st4.depositphotos.com/4678277/28802/i/380/depositphotos_288020168-stock-photo-close-up-side-profile-photo.jpg)
 ## 1. Práctica 25
 Esta práctica me salió rodando, no tuve apenas dudas y es bastante completa.
 ## 2. Práctica 26
 Es la que me encuentro realizando ahora, la destaco porque se me hace un poco difícil y me está dando bastantes dolores de cabeza, 
 si la consigo hacer, creo que estaré preparado ya para cualquier cosa *(creo)*.
+---
+# CONCLUSIONES Y MI OPINIÓN
+![Portátil](https://st4.depositphotos.com/12985656/20576/i/380/depositphotos_205766646-stock-photo-cropped-shot-businessman-breaking-pencil.jpg)
+## Conclusión
+La programación orientada a objetos facilita en gran medida lo que se conoce como programación, 
+ayudandonos a encontrar errores más facilmente, nos ahorran trabajo gracias a que podemos utilizar varios métodos en clases distintas,
+podemos crear objetos, que esto es una *"entidad"* que a la que podemos dar valores, métodos y trabajar con ello por separado 
+para facilitar el trabajo.
