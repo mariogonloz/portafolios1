@@ -17,9 +17,9 @@
 + **Interpretar** diagramas **UML**.
 ---
 # PRÁCTICAS A DESTACAR
-![Hombre programando](C:\Users\gonza\IdeaProjects\portafolios1\imagen.jpg "Hombre programando")
+![Hombre programando](C:\Users\gonza\IdeaProjects\portafolios1\imagen.jpg)
 ## 1. Práctica 25
 Esta práctica me salió rodando, no tuve apenas dudas y es bastante completa.
 ## 2. Práctica 26
-Es la que me encuentro realizando ahora, la destaco porque se me hace un poco dificil y me está dando bastantes dolores de cabeza, 
+Es la que me encuentro realizando ahora, la destaco porque se me hace un poco difícil y me está dando bastantes dolores de cabeza, 
 si la consigo hacer, creo que estaré preparado ya para cualquier cosa *(creo)*.
