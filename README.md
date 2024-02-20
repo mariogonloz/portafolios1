@@ -31,3 +31,11 @@ La programación orientada a objetos facilita en gran medida lo que se conoce co
 ayudandonos a encontrar errores más facilmente, nos ahorran trabajo gracias a que podemos utilizar varios métodos en clases distintas,
 podemos crear objetos, que esto es una *"entidad"* que a la que podemos dar valores, métodos y trabajar con ello por separado 
 para facilitar el trabajo.
+>Antes de la programación orientada a objetos, ante un fallo, 
+era mejor empezar el proyecto desde cero antes que buscar el error debido al gran tiempo que se perdía encontrando el fallo.
+ >- *Jorge Sánchez (profesor de programación y de BBDD)*
+### Aspectos positivos de este tema
+Mi forma de pensar respecto a realización de proyectos ha cambiado, ya que gracias a los objetos y métodos, 
+puedo realizar más facilmente el trabajo y encontrar otra forma de realizarlo.
+### Aspectos negativos de este tema
+Adaptarse a esta forma de pensar es muy complicado al principio, ya que venimos de otro tipo de programación.
